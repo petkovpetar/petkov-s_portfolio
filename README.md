@@ -1,6 +1,7 @@
 # Petar Petkov's Data Analytics Portfolio
 
-# Project 1: Data Analytics Course by Linq (https://petkovpetar.github.io/Project-Data-Analytics-Course-by-Linq/)
+# Project 1: Data Analytics Course by Linq 
+https://petkovpetar.github.io/Project-Data-Analytics-Course-by-Linq
 
 
 ## The data is a random sample of 117 cases from the files of a large real estate agency in the United States regarding home sales from February 15 to April 30, 1993. The data come from many different cities (and corresponding local real estate agencies) and are used as a basis for the entire agency. 
