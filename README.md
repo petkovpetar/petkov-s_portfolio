@@ -1,2 +1,3 @@
-# petkov-s_portfolio
-Data Analytics Portfolio
+Petar Petkov's Data Analytics Portfolio
+
+# Project 1: 
